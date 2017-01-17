@@ -1,0 +1,6 @@
+c:\users\chidadha\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.exe.config
+c:\users\chidadha\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.exe
+c:\users\chidadha\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.pdb
+c:\users\chidadha\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.csprojResolveAssemblyReference.cache
+c:\users\chidadha\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.exe
+c:\users\chidadha\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.pdb
